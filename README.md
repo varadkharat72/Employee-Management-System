@@ -51,27 +51,3 @@ A React-based task management app where an **Admin** assigns tasks to employees,
 | Ishaan  | employee5@example.com | 123      |
 
 ---
-
-## 🛠️ Tech Stack
-
-- **React** — UI and components
-- **React Context API** — shared global state
-- **Tailwind CSS** — styling
-- **localStorage** — session persistence
-
----
-
-## 📦 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-
-# Install dependencies
-npm install
-
-# Start the dev server
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
