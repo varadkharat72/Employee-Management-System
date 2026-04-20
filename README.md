@@ -13,7 +13,7 @@ A React-based task management app where an **Admin** assigns tasks to employees,
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login-page.png)
 
 ### 👨‍💼 Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
@@ -21,8 +21,6 @@ A React-based task management app where an **Admin** assigns tasks to employees,
 ### 👷 Employee Dashboard
 ![Employee Dashboard](./screenshots/employee-dashboard.png)
 
-### 📝 Create Task
-![Create Task](./screenshots/create-task.png)
 
 ---
 
